@@ -1,0 +1,7 @@
+{
+  "name": "PauGuSe Fotografía - Portafolio Premium",
+  "description": "Un portafolio de fotografía moderno y cinemático que destaca trabajos deportivos y de retrato, con integración de IA para exploración interactiva.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
